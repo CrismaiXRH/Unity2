@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false,"showVisualEffectGraphs":true,"m_FxEnabled":false},"in2DMode":false,"pivot":{"x":1483.63037109375,"y":-291.2557678222656,"z":1217.796142578125},"rotation":{"x":0.12378126382827759,"y":0.40704527497291567,"z":-0.05587964132428169,"w":0.903347909450531},"size":579.6456909179688,"orthographic":false}
+=======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false,"showVisualEffectGraphs":true,"m_FxEnabled":false},"in2DMode":false,"pivot":{"x":479.0000305175781,"y":230.60000610351563,"z":243.0},"rotation":{"x":-0.5978211164474487,"y":-0.23405331373214723,"z":0.1883855015039444,"w":-0.7432423830032349},"size":584.5223388671875,"orthographic":false}
+>>>>>>> parent of ef6a808 (Casa)
